@@ -1,4 +1,12 @@
 /*!
+ * Tmp
+ *
+ * Copyright (c) 2011-2017 KARASZI Istvan <github@spam.raszi.hu>
+ *
+ * MIT Licensed
+ */
+
+/*!
  * accepts
  * Copyright(c) 2014 Jonathan Ong
  * Copyright(c) 2015 Douglas Christopher Wilson
